@@ -1,2 +1,2 @@
 #### JavaScript + the DOM 
-This project app pulls UFO Siting data
+This project app pulls UFO siting data
